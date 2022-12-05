@@ -1,0 +1,4 @@
+repository "Game@openye1164@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
